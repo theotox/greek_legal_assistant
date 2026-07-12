@@ -17,3 +17,7 @@ Code accompanying my LinkedIn posts on the subject.
 [Post 3γ, Σημειώσεις για την επιλογή του συγκεκριμένου μοντέλου 27B](https://www.linkedin.com/posts/george-theotokis-620866350_ai-legaltech-dataengineering-activity-7482002986286628864-bER7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFexMfgBcenkWJzw5jPaJdoIcXLEXvEK0i4)
 
 [Post 3δ, Μετατροπή Synthetic Dataset](https://www.linkedin.com/posts/george-theotokis-620866350_ai-legaltech-dataengineering-share-7482016740248281088-Hgay/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFexMfgBcenkWJzw5jPaJdoIcXLEXvEK0i4)
+
+[Post 4α, finetuning το μοντέλο QWEN3.6-27B](https://www.linkedin.com/posts/george-theotokis-620866350_%CE%B5%CF%80%CE%B5%CE%B9%CF%83%CF%8C%CE%B4%CE%B9%CE%BF-4%CE%B1-model-finetuning-ugcPost-7482155458905075712-BnNt/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFexMfgBcenkWJzw5jPaJdoIcXLEXvEK0i4)
+
+[Post 4β, Επισκόπηση του Finetuning](https://www.linkedin.com/posts/george-theotokis-620866350_ai-machinelearning-finetuning-share-7482158854013681664--gxC/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFexMfgBcenkWJzw5jPaJdoIcXLEXvEK0i4)
