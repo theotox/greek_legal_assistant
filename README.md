@@ -14,4 +14,4 @@ Code accompanying my LinkedIn posts on the subject.
 
 [Post 3β, Σημειώσεις για την επιλογή της οικογένειας του μοντέλου](https://www.linkedin.com/posts/george-theotokis-620866350_ai-legaltech-modelselection-activity-7481997997376188416-A-an?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFexMfgBcenkWJzw5jPaJdoIcXLEXvEK0i4)
 
-[Post 3γ, Σημειώσεις για την επιλογή του μοντέλου 27B](https://www.linkedin.com/posts/george-theotokis-620866350_ai-legaltech-dataengineering-activity-7482002986286628864-bER7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFexMfgBcenkWJzw5jPaJdoIcXLEXvEK0i4)
+[Post 3γ, Σημειώσεις για την επιλογή του συγκεκριμένου μοντέλου 27B](https://www.linkedin.com/posts/george-theotokis-620866350_ai-legaltech-dataengineering-activity-7482002986286628864-bER7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFexMfgBcenkWJzw5jPaJdoIcXLEXvEK0i4)
