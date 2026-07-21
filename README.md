@@ -21,3 +21,9 @@ Code accompanying my LinkedIn posts on the subject.
 [Post 4α, finetuning το μοντέλο QWEN3.6-27B](https://www.linkedin.com/posts/george-theotokis-620866350_%CE%B5%CF%80%CE%B5%CE%B9%CF%83%CF%8C%CE%B4%CE%B9%CE%BF-4%CE%B1-model-finetuning-ugcPost-7482155458905075712-BnNt/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFexMfgBcenkWJzw5jPaJdoIcXLEXvEK0i4)
 
 [Post 4β, Επισκόπηση του Finetuning](https://www.linkedin.com/posts/george-theotokis-620866350_ai-machinelearning-finetuning-share-7482158854013681664--gxC/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFexMfgBcenkWJzw5jPaJdoIcXLEXvEK0i4)
+
+[Post 5α, It's RAG time! Synthetic Data για RAG](https://www.linkedin.com/posts/george-theotokis-620866350_ai-machinelearning-finetuning-share-7485317562130391041-p2a4/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFexMfgBcenkWJzw5jPaJdoIcXLEXvEK0i4)
+
+[Post 5β, It's RAG time! Synthetic Data & SCRIPTS](https://www.linkedin.com/posts/george-theotokis-620866350_ai-machinelearning-finetuning-share-7485330924956610561-s6ke/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFexMfgBcenkWJzw5jPaJdoIcXLEXvEK0i4)
+
+[Post 5γ, It's RAG time! Ανασκόπηση & σύγκριση κόστους](https://www.linkedin.com/posts/george-theotokis-620866350_%CE%BA%CF%8C%CF%83%CF%84%CE%BF%CF%82-%CE%B1%CE%BD-%CE%B7-%CF%80%CF%81%CE%BF%CE%B5%CF%84%CE%BF%CE%B9%CE%BC%CE%B1%CF%83%CE%AF%CE%B1-%CE%B4%CE%B5%CE%B4%CE%BF%CE%BC%CE%AD%CE%BD%CF%89%CE%BD-%CE%B5%CE%AF%CF%87%CE%B5-%CE%B3%CE%AF%CE%BD%CE%B5%CE%B9-ugcPost-7485359158159032320-PyGJ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFexMfgBcenkWJzw5jPaJdoIcXLEXvEK0i4)
