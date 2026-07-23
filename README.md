@@ -27,3 +27,5 @@ Code accompanying my LinkedIn posts on the subject.
 [Post 5β, It's RAG time! Synthetic Data & SCRIPTS](https://www.linkedin.com/posts/george-theotokis-620866350_ai-machinelearning-finetuning-share-7485330924956610561-s6ke/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFexMfgBcenkWJzw5jPaJdoIcXLEXvEK0i4)
 
 [Post 5γ, It's RAG time! Ανασκόπηση & σύγκριση κόστους](https://www.linkedin.com/posts/george-theotokis-620866350_%CE%BA%CF%8C%CF%83%CF%84%CE%BF%CF%82-%CE%B1%CE%BD-%CE%B7-%CF%80%CF%81%CE%BF%CE%B5%CF%84%CE%BF%CE%B9%CE%BC%CE%B1%CF%83%CE%AF%CE%B1-%CE%B4%CE%B5%CE%B4%CE%BF%CE%BC%CE%AD%CE%BD%CF%89%CE%BD-%CE%B5%CE%AF%CF%87%CE%B5-%CE%B3%CE%AF%CE%BD%CE%B5%CE%B9-ugcPost-7485359158159032320-PyGJ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFexMfgBcenkWJzw5jPaJdoIcXLEXvEK0i4)
+
+[Post 5δ, It's RAG time! Chunking & Embedding](https://www.linkedin.com/posts/george-theotokis-620866350_embedding-model-document-activity-7486105287662424064-uwzK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFexMfgBcenkWJzw5jPaJdoIcXLEXvEK0i4)
